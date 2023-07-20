@@ -1,0 +1,20 @@
+---
+title: Salary by technology
+charts:
+  - id: salary-by-technologies
+    type: BubbleLineChart
+    datasets:
+      - id: salary-by-programming-languages
+        label: Languages
+      - id: salary-by-databases
+        label: Databases
+      - id: salary-by-web-frameworks
+        label: Web frameworks
+      - id: salary-by-other-frameworks
+        label: Other frameworks
+      - id: salary-by-developer-tools
+        label: Tools
+---
+Although respondents using different technologies were paid differently, this correlation seemed likely caused by their [different levels of professional experience](#experience-by-technologies).
+
+However, there were some standouts. Objective-C respondents were amongst the most experienced, but worst compensated, and Flutter developers were amongst the best paid, despite having relatively low experience.

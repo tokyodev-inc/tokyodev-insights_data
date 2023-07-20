@@ -1,0 +1,12 @@
+columns: [English, Japanese]
+rows:
+  - label: None
+    response_counts: [1, 23]
+  - label: Basic
+    response_counts: [4, 94]
+  - label: Conversational
+    response_counts: [31, 134]
+  - label: Fluent
+    response_counts: [169, 89]
+  - label: Native
+    response_counts: [156, 20]

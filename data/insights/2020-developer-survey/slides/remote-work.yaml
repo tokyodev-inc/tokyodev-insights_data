@@ -1,0 +1,7 @@
+---
+title: Remote Work
+charts:
+  - id: remote-work
+    type: TwoSidedBarChart
+---
+Even before COVID-19, it seems that remote work was picking up traction in Japan, with 33% of respondents working remotely at least one day per week. However, with COVID-19, we saw that number skyrocket to 88%, with 68% of respondents working fully remotely.

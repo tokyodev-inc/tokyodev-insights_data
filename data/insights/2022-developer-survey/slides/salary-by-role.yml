@@ -1,0 +1,9 @@
+---
+title: Executives and engineering managers best paid, but also most experienced
+charts:
+  - id: salary-by-role
+    type: BubbleLineChart
+---
+Senior executives and engineering managers were the best paying roles, but respondents were also relatively experienced.
+
+The designer role stood out as being particularly poorly compensated as it had the lowest median pay despite respondents having above average experience.

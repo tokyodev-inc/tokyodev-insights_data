@@ -1,0 +1,22 @@
+---
+title: International subsidiaries pay significantly better than domestically headquartered companies
+charts:
+  - id: salary-by-employer-type
+    type: BubbleLineChart
+    datasets:
+      - id: salary-by-employer-type
+        label: "2022"
+      - id: 2021/salary-by-company-type
+        label: "2021"
+  - id: salary-by-employer-type-and-experience
+    type: BubbleLineChart
+    title: Salary by employer type and experience
+    datasets:
+      - id: salary-by-experience-and-employer-type-international-subsidiary
+        label: "International subsidiary"
+      - id: salary-by-experience-and-employer-type-japanese-company
+        label: "Japanese company"
+---
+The type of employer had a significant effect on compensation. While the compensation at companies headquartered in Japan remained stagnant, with a median of ¥7.5 million. Respondents working at an international subsidiary earned a median ¥14.5 million, up from ¥11.5 million the year before, significantly increasing the divide between those working for purely domestic employers.
+
+This difference in compensation was found across experience levels, and the gap became more pronounced with more experienced respondents.

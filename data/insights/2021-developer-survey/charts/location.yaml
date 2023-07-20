@@ -1,0 +1,15 @@
+---
+- label: Tokyo
+  response_count: 284
+- label: Kanagawa
+  response_count: 50
+- label: Chiba
+  response_count: 18
+- label: Osaka
+  response_count: 17
+- label: Saitama
+  response_count: 13
+- label: Kyoto
+  response_count: 13
+- label: Others
+  response_count: 39

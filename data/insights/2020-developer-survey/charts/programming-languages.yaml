@@ -1,0 +1,46 @@
+total: 343
+rows:
+  - label: JavaScript
+    response_count: 206
+  - label: HTML/CSS
+    response_count: 151
+  - label: Python
+    response_count: 125
+  - label: SQL
+    response_count: 116
+  - label: Shell
+    response_count: 90
+  - label: TypeScript
+    response_count: 86
+  - label: Ruby
+    response_count: 80
+  - label: Java
+    response_count: 65
+  - label: C++
+    response_count: 44
+  - label: Go
+    response_count: 40
+  - label: PHP
+    response_count: 36
+  - label: C#
+    response_count: 29
+  - label: C
+    response_count: 28
+  - label: Kotlin
+    response_count: 28
+  - label: Swift
+    response_count: 18
+  - label: Scala
+    response_count: 13
+  - label: Objective-C
+    response_count: 12
+  - label: R
+    response_count: 9
+  - label: Rust
+    response_count: 9
+  - label: VBA
+    response_count: 7
+  - label: Assembly
+    response_count: 6
+  - label: Elixir
+    response_count: 5

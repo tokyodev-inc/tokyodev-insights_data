@@ -1,0 +1,7 @@
+---
+title: Salary by experience
+charts:
+  - id: salary-by-experience-all
+    type: BubbleLineChart
+---
+Salary quickly increased with experience, and among respondents with five to nine years of experience, 41% earned ¥10 million or more.

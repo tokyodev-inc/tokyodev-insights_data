@@ -1,0 +1,7 @@
+---
+title: Language ability
+charts:
+  - id: language-ability
+    type: TwoSidedBarChart
+---
+Only 30% of respondents spoke Japanese at a fluent or native level, indicating many international developers get by with relatively modest Japanese abilities.

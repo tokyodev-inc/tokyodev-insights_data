@@ -1,0 +1,31 @@
+---
+- l: Daily
+  f_mean: 10284132.841328414
+  median: 9500000.0
+  f_25: 6500000.0
+  f_75: 12500000.0
+  response_count: 271
+- l: Often, 3-4 days per week
+  f_mean: 8295180.722891566
+  median: 6500000.0
+  f_25: 5500000.0
+  f_75: 9500000.0
+  response_count: 83
+- l: Occasionally, 1-2 days per week
+  f_mean: 7477272.7272727275
+  median: 6000000.0
+  f_25: 3500000.0
+  f_75: 7250000.0
+  response_count: 22
+- l: Rarely, 1-2 days per month or less
+  f_mean: 6600000.0
+  median: 6500000.0
+  f_25: 4000000.0
+  f_75: 8250000.0
+  response_count: 10
+- l: Never
+  f_mean: 5269230.769230769
+  median: 6500000.0
+  f_25: 3500000.0
+  f_75: 6500000.0
+  response_count: 13

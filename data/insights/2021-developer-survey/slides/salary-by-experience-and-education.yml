@@ -1,0 +1,14 @@
+---
+title: Salary by experience and educational background
+charts:
+  - id: salary-by-experience
+    type: BubbleLineChart
+    datasets:
+      - id: salary-by-experience-university-degree-related
+        label: "With related degree"
+      - id: salary-by-experience-university-degree-unrelated
+        label: "With unrelated degree"
+      - id: salary-by-experience-coding-bootcamp
+        label: "Attended bootcamp"
+---
+Whether someone had a formal education (such as a computer science degree), an unrelated degree, or had attended a coding bootcamp didn't have an obvious correlation with their salary after accounting for experience.

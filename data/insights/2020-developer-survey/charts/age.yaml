@@ -1,0 +1,18 @@
+- label: 20 - 24
+  response_count: 12
+- label: 25 - 29
+  response_count: 94
+- label: 30 - 34
+  response_count: 120
+- label: 35 - 39
+  response_count: 78
+- label: 40 - 44
+  response_count: 33
+- label: 45 - 49
+  response_count: 10
+- label: 50 - 54
+  response_count: 4
+- label: 55 - 59
+  response_count: 3
+- label: 60 - 64
+  response_count: 1

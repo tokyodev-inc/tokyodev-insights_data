@@ -1,0 +1,21 @@
+---
+- label: Permanent employee (Seishain)
+  response_count: 346
+- label: Contract employee (Keiyakushain)
+  response_count: 30
+- label: Self-employed (Jieigyo)
+  response_count: 22
+- label: Company director (Yakuin)
+  response_count: 12
+- label: Temporary worker (Haken)
+  response_count: 8
+- label: Not employed, but looking for work
+  response_count: 7
+- label: Part-time (Arubaito)
+  response_count: 4
+- label: Internship
+  response_count: 3
+- label: Student
+  response_count: 1
+- label: Not employed, and not looking
+  response_count: 1

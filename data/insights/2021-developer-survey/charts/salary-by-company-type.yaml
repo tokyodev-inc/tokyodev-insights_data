@@ -1,0 +1,25 @@
+---
+- l: International subsidiary
+  f_mean: 13379310.344827587
+  median: 11500000.0
+  f_25: 7500000.0
+  f_75: 16500000.0
+  response_count: 87
+- l: Company without Japanese entity
+  f_mean: 10166666.666666666
+  median: 8500000.0
+  f_25: 5500000.0
+  f_75: 13500000.0
+  response_count: 27
+- l: Japanese company
+  f_mean: 8297348.484848484
+  median: 7500000.0
+  f_25: 5500000.0
+  f_75: 10500000.0
+  response_count: 264
+- l: Sole proprietorship
+  f_mean: 6500000.0
+  median: 6500000.0
+  f_25: 4000000.0
+  f_75: 8000000.0
+  response_count: 15

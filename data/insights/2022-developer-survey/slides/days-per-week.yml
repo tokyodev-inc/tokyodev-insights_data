@@ -1,0 +1,13 @@
+---
+title: Days worked in a typical week
+question: In a typical week, how many days do you work?
+charts:
+  - id: days-per-week
+    type: ComboChart
+    datasets:
+      - id: days-per-week
+        label: All
+      - id: days-per-week-permanent-employees
+        label: Permanent employees
+---
+97% of permanent employees worked a five-day work week.

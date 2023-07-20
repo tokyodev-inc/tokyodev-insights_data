@@ -1,0 +1,24 @@
+- label: Under ¥2.0m
+  response_count: 3
+- label: ¥2.0-3.9m
+  response_count: 24
+- label: ¥4.0-5.9m
+  response_count: 78
+- label: ¥6.0-7.9m
+  response_count: 77
+- label: ¥8.0-9.9m
+  response_count: 57
+- label: ¥10.0-11.9m
+  response_count: 36
+- label: ¥12.0-13.9m
+  response_count: 22
+- label: ¥14.0-15.9m
+  response_count: 14
+- label: ¥16.0-17.9m
+  response_count: 3
+- label: ¥18.0-19.9m
+  response_count: 3
+- label: ¥20.0-21.9m
+  response_count: 7
+- label: ¥22.0m and above
+  response_count: 6

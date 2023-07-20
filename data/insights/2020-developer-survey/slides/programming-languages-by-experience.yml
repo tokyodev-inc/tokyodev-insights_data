@@ -1,0 +1,10 @@
+---
+title: TypeScript users tend to be at the beginning of their career
+charts:
+  - id: programming-languages-by-experience
+    title: Programming Languages By Experience
+    type: BubbleLineChart
+    formatter: number
+    x_axis_min_value: 2
+---
+Languages that were developed as a successor to another languages tended to have users that were earlier in their career. For example, if we look at Kotlin versus Java, TypeScript versus JavaScript, and Swift versus Objective-C, the newer language always has users with a lower average years of experience.

@@ -1,0 +1,133 @@
+---
+- l: Senior executive (C-Suite, VP, etc.)
+  f_mean: 18.61904761904762
+  median: 16.0
+  f_25: 12.0
+  f_75: 25.0
+  response_count: 21
+- l: Engineering manager
+  f_mean: 16.157894736842106
+  median: 14.0
+  f_25: 10.0
+  f_75: 21.0
+  response_count: 57
+- l: Data or business analyst
+  f_mean: 14.538461538461538
+  median: 14.0
+  f_25: 4.0
+  f_75: 22.0
+  response_count: 13
+- l: System administrator
+  f_mean: 14.421052631578947
+  median: 12.0
+  f_25: 7.5
+  f_75: 20.0
+  response_count: 19
+- l: Security professional
+  f_mean: 12.9
+  median: 11.5
+  f_25: 7.25
+  f_75: 18.5
+  response_count: 10
+- l: Database administrator
+  f_mean: 13.5625
+  median: 11.0
+  f_25: 8.0
+  f_75: 20.0
+  response_count: 16
+- l: Developer, desktop or enterprise
+  f_mean: 12.818181818181818
+  median: 11.0
+  f_25: 4.0
+  f_75: 19.75
+  response_count: 22
+- l: Product manager
+  f_mean: 12.863636363636363
+  median: 10.5
+  f_25: 4.25
+  f_75: 16.75
+  response_count: 22
+- l: Engineer, site reliability
+  f_mean: 11.894736842105264
+  median: 10.5
+  f_25: 6.0
+  f_75: 15.0
+  response_count: 38
+- l: Cloud infrastructure engineer
+  f_mean: 11.20754716981132
+  median: 10.0
+  f_25: 5.0
+  f_75: 15.0
+  response_count: 53
+- l: Designer
+  f_mean: 12.9
+  median: 9.5
+  f_25: 3.75
+  f_75: 20.75
+  response_count: 20
+- l: Blockchain
+  f_mean: 11.333333333333334
+  median: 9.0
+  f_25: 6.0
+  f_75: 14.0
+  response_count: 15
+- l: DevOps specialist
+  f_mean: 11.15
+  median: 9.0
+  f_25: 5.0
+  f_75: 15.0
+  response_count: 40
+- l: Developer, QA or test
+  f_mean: 12.266666666666667
+  median: 8.0
+  f_25: 3.0
+  f_75: 22.5
+  response_count: 15
+- l: Engineer, data
+  f_mean: 9.947368421052632
+  median: 7.0
+  f_25: 5.0
+  f_75: 12.75
+  response_count: 38
+- l: Developer, mobile
+  f_mean: 9.688888888888888
+  median: 7.0
+  f_25: 5.0
+  f_75: 11.0
+  response_count: 45
+- l: Developer, back-end
+  f_mean: 8.730434782608695
+  median: 7.0
+  f_25: 5.0
+  f_75: 12.0
+  response_count: 230
+- l: Developer, game or graphics
+  f_mean: 8.318181818181818
+  median: 7.0
+  f_25: 4.25
+  f_75: 11.5
+  response_count: 22
+- l: Developer, embedded
+  f_mean: 9.423076923076923
+  median: 6.5
+  f_25: 4.0
+  f_75: 11.5
+  response_count: 26
+- l: Developer, front-end
+  f_mean: 8.733333333333333
+  median: 6.0
+  f_25: 4.0
+  f_75: 11.0
+  response_count: 105
+- l: Developer, full-stack
+  f_mean: 8.538461538461538
+  median: 6.0
+  f_25: 3.0
+  f_75: 12.0
+  response_count: 195
+- l: Data scientist or ML specialist
+  f_mean: 8.473684210526315
+  median: 6.0
+  f_25: 4.25
+  f_75: 11.5
+  response_count: 38

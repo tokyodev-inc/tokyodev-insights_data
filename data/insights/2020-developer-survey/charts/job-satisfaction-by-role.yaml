@@ -1,0 +1,40 @@
+- l: Developer, mobile
+  f_mean: 8.08
+  f_25: 7.75
+  f_75: 9.00
+- l: Engineering manager
+  f_mean: 7.90
+  f_25: 7.00
+  f_75: 9.00
+- l: Developer, game or graphics
+  f_mean: 7.33
+  f_25: 6.75
+  f_75: 9.00
+- l: Developer, front-end
+  f_mean: 7.26
+  f_25: 6.50
+  f_75: 8.00
+- l: DevOps specialist
+  f_mean: 6.92
+  f_25: 6.00
+  f_75: 9.00
+- l: Developer, full-stack
+  f_mean: 6.90
+  f_25: 6.00
+  f_75: 8.00
+- l: Developer, back-end
+  f_mean: 6.86
+  f_25: 6.00
+  f_75: 8.00
+- l: Data scientist or ML specialist
+  f_mean: 6.81
+  f_25: 5.25
+  f_75: 8.00
+- l: Developer, desktop or enterprise
+  f_mean: 5.70
+  f_25: 4.25
+  f_75: 7.75
+- l: Engineer, data
+  f_mean: 5.30
+  f_25: 4.00
+  f_75: 7.50

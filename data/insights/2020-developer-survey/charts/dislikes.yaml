@@ -1,0 +1,38 @@
+total: 224
+rows:
+- label: Leadership / Management
+  response_count: 38
+- label: Salary
+  response_count: 30
+- label: Culture / Work Environment
+  response_count: 24
+- label: Lack of Personal Growth
+  response_count: 19
+- label: Technology Used
+  response_count: 18
+- label: Poor Work / Life Balance
+  response_count: 16
+- label: Work Itself
+  response_count: 16
+- label: Language Barrier / Not International
+  response_count: 15
+- label: Coworkers
+  response_count: 13
+- label: Poor Development Processes
+  response_count: 13
+- label: Overworked
+  response_count: 11
+- label: Slow Pace of Development
+  response_count: 11
+- label: Instability / Uncertainty
+  response_count: 10
+- label: Working Remotely Prohibitted
+  response_count: 7
+- label: Can't Make Use of Japanese
+  response_count: 6
+- label: Meetings
+  response_count: 6
+- label: Working Remotely Required
+  response_count: 5
+- label: Other
+  response_count: 15

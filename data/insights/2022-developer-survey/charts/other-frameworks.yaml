@@ -1,0 +1,35 @@
+---
+total: 227
+rows:
+- label: NumPy
+  response_count: 78
+- label: Pandas
+  response_count: 69
+- label: Spring
+  response_count: 59
+- label: Apache Kafka
+  response_count: 54
+- label: Torch/PyTorch
+  response_count: 42
+- label: TensorFlow
+  response_count: 40
+- label: Scikit-learn
+  response_count: 36
+- label: ".NET"
+  response_count: 35
+- label: React Native
+  response_count: 29
+- label: Apache Spark
+  response_count: 26
+- label: Keras
+  response_count: 19
+- label: Hadoop
+  response_count: 19
+- label: Hugging Face Transformers
+  response_count: 16
+- label: Qt
+  response_count: 13
+- label: Flutter
+  response_count: 11
+- label: Electron
+  response_count: 6

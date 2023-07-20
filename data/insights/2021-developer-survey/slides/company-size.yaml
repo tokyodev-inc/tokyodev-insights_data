@@ -1,0 +1,13 @@
+---
+title: Company size
+charts:
+  - id: company-size
+    type: ComboChart
+    datasets:
+      - id: company-size-all
+        label: All respondents
+      - id: company-size-beginning
+        label: "<4 years experience"
+question: How many employees does your employer have (worldwide)?
+---
+Respondents at the beginning of their career tended to work for mid-sized companies: among respondents with less than 4 years of experience, 58% of them worked for a company with between 20 and 499 employees, whereas among those with 4 or more years, only 36% did.

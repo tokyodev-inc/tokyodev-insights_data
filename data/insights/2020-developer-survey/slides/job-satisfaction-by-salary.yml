@@ -1,0 +1,11 @@
+---
+title: Developers making less than ¥5 million per year unsatisfied with job
+charts:
+  - id: job-satisfaction-by-salary
+    title: Job Satisfaction by Salary
+    type: BubbleLineChart
+    formatter: number
+    x_axis_min_value: 1
+    x_axis_max_value: 10
+---
+Respondents with an [annual salary](#salary) between ¥3 and ¥5 million reported an average satisfaction of 6.0, compared to 7.1 for those making between ¥5 and ¥10 million, and 7.4 for those making ¥10 million and above.

@@ -1,0 +1,21 @@
+---
+columns:
+- English
+- Japanese
+rows:
+- label: Never
+  response_counts:
+  - 32
+  - 100
+- label: Rarely
+  response_counts:
+  - 30
+  - 125
+- label: Sometimes
+  response_counts:
+  - 23
+  - 77
+- label: Frequently
+  response_counts:
+  - 336
+  - 115

@@ -1,0 +1,21 @@
+---
+- label: '10'
+  response_count: 62
+- label: '9'
+  response_count: 98
+- label: '8'
+  response_count: 143
+- label: '7'
+  response_count: 100
+- label: '6'
+  response_count: 52
+- label: '5'
+  response_count: 40
+- label: '4'
+  response_count: 19
+- label: '3'
+  response_count: 20
+- label: '2'
+  response_count: 5
+- label: '1'
+  response_count: 3

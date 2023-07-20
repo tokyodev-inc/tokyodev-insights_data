@@ -1,0 +1,7 @@
+---
+title: Salary by remote work
+charts:
+  - id: salary-by-remote-work
+    type: BubbleLineChart
+---
+Respondents who worked fully remotely had a median salary of ¥9.5 million, compared to ¥6.5 million for those who didn't.

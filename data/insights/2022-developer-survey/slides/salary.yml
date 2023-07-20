@@ -1,0 +1,16 @@
+---
+title: Salary
+chapter: Working Conditions
+question: What is your current total annual compensation (salary, bonuses, perks, and overtime pay, before taxes and deductions) in Japanese yen?
+charts:
+  - id: salary
+    type: ComboChart
+    datasets:
+      - id: salary
+        label: "2022"
+      - id: 2021/salary
+        label: "2021"
+---
+Developer salaries continued to increase. The median salary was ¥9.5 million per year, up ¥1 million from last year's survey. This may partially be explained by respondents tending to be [more experienced](#experience) than the previous year.
+
+Respondents earning ¥10 million per year or over increased from 35% of respondents in 2021 to 42% in 2022.

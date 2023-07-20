@@ -1,0 +1,12 @@
+---
+title: Nationality of colleagues
+charts:
+  - id: nationality-engineers
+    type: DonutChart
+    title: Engineers
+  - id: nationality-others
+    type: DonutChart
+    title: Non-Engineers
+question: What is the nationality of the other people you work with?
+---
+84% of respondents were part of an engineering team where other international members were common.

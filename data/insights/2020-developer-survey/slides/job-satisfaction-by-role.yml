@@ -1,0 +1,11 @@
+---
+title: Despite low salary, game developers satisfied with their job
+charts:
+  - id: job-satisfaction-by-role
+    title: Job Satisfaction by Role
+    type: BubbleLineChart
+    formatter: number
+    x_axis_min_value: 1
+    x_axis_max_value: 10
+---
+Despite the *Developer, game or graphics* role correlating with [the lowest average salary](#salary-by-role), they had slightly above average satisfaction. The high satisfaction mobile developers had could explain why developers using Swift, Objective-C, and Kotlin were the [most satisfied](#job-satisfaction-by-programming-language).

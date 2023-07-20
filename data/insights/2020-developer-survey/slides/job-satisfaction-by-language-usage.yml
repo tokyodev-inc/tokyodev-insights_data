@@ -1,0 +1,13 @@
+---
+title: Job satisfaction increases with English usage
+charts:
+  - id: job-satisfaction-by-language-usage-english
+    type: BubbleLineChart
+    title: Job Satisfaction by English Usage
+    formatter: number
+    x_axis_min_value: 1
+    x_axis_max_value: 10
+---
+Respondents who frequently used [English at their job](#language-usage) had a higher average job satisfaction. It's possible that this correlation was the result of the higher salaries that are associated with English usage.
+
+We didn't notice a strong correlation between a respondent's [language ability](#language-ability) and job satisfaction, beyond those who didn't speak any Japanese having a slightly lower job satisfaction.

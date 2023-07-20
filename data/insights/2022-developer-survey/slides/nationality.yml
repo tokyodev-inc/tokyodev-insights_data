@@ -1,0 +1,24 @@
+---
+chapter: "Demographics"
+title: Where were respondents from?
+question: What is your nationality?
+charts:
+  - id: company-size
+    type: ComboChart
+    datasets:
+      - id: nationality-region
+        label: Region
+      - id: nationality-europe
+        label: Europe
+      - id: nationality-north-america
+        label: N. America
+      - id: nationality-south-america
+        label: S. America        
+      - id: nationality-asia
+        label: Asia
+      - id: nationality-oceania
+        label: Oceania
+      - id: nationality-africa
+        label: Africa
+---
+This survey was conducted in English. Despite this, the respondents were incredibly diverse, representing 72 different countries. The top three nationalities were American (21%), French (8%), and British (7%).

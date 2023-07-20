@@ -1,0 +1,8 @@
+---
+title: Company size
+charts:
+  - id: company-size
+    type: ComboChart
+    title: Worldwide Employee Count
+---
+While 20% of all respondents worked for a company with 10,000 or more employees, among those who work at subsidiary of an international company, that number rose to 49%. Larger organizations tended [to pay better](#salary-by-company-size).

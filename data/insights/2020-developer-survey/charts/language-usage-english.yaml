@@ -1,0 +1,6 @@
+- label: Never
+  response_count: 36
+- label: Sometimes
+  response_count: 50
+- label: Frequently
+  response_count: 250

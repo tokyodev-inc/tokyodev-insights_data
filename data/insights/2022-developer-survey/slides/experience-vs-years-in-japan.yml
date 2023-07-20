@@ -1,0 +1,7 @@
+---
+title: The majority of respondents have not spent their entire career in Japan
+charts:
+  - id: experience-vs-years-in-japan
+    type: DonutChart
+---
+59% of respondents had more years of professional software development experience than years lived in Japan, indicating that they have also worked abroad.

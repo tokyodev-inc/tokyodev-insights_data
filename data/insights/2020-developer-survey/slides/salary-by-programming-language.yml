@@ -1,0 +1,8 @@
+---
+title: Scala pays best on average, PHP worst
+charts:
+  - id: salary-by-programming-language
+    title: Salary by Programming Language
+    type: BubbleLineChart
+---
+Respondents who said they used Scala were best paid, though this could just be due to our relatively small sample size of 13 respondents [who indicated they used it](#programming-languages).

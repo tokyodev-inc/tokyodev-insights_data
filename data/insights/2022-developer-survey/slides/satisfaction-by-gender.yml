@@ -1,0 +1,18 @@
+---
+title: Lower compensation for women drove lower overall job satisfaction
+charts:
+  - id: satisfaction-by-gender
+    type: TwoSidedBarChart
+    datasets:
+      - id: overall-satisfaction-by-gender
+        label: Overall
+      - id: compensation-satisfaction-by-gender
+        label: "Compensation"
+      - id: management-satisfaction-by-gender
+        label: "Management"
+      - id: work-satisfaction-by-gender
+        label: "Work itself"
+      - id: colleague-satisfaction-by-gender
+        label: "Colleagues"
+---
+Women were less satisfied with their job than men, with a median overall satisfaction score of 7 compared to 8 for men. This seems driven by their lower compensation, as the median satisfaction of their compensation was 6 compared to 7 for men, while other measures all had a median of 8.

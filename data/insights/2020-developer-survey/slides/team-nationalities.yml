@@ -1,0 +1,11 @@
+---
+title: Nationality of colleagues
+charts:
+  - id: nationality-engineers
+    type: DonutChart
+    title: Engineers
+  - id: nationality-others
+    type: DonutChart
+    title: Non-Engineers
+---
+Respondents tended to work in companies where the engineering team was international, but the rest of the employees were Japanese.

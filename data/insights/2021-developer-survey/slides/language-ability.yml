@@ -1,0 +1,8 @@
+---
+title: Language ability
+charts:
+  - id: language-ability
+    type: TwoSidedBarChart
+question: What is your language proficiency?
+---
+Only 30% of respondents spoke Japanese at a fluent level or above.

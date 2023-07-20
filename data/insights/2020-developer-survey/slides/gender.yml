@@ -1,0 +1,7 @@
+---
+title: Gender
+charts:
+  - id: gender
+    type: DonutChart
+---
+11% of respondents were women. To put that in perspective, [a report](https://www.meti.go.jp/shingikai/sankoshin/shomu_ryutsu/joho_keizai/it_jinzai/pdf/001_04_02.pdf) based Japan's 2015 census that indicated 14% of software developers were women, and Stack Overflow's [2020 developer survey](https://insights.stackoverflow.com/survey/2020#developer-profile-gender-all-respondents2) indicates women made up 8% of respondents globally.

@@ -1,0 +1,7 @@
+---
+title: Lower Japanese ability correlated with a higher salary
+charts:
+  - id: salary-by-japanese-ability
+    type: BubbleLineChart
+---
+With the exception of native or bilingual speakers of Japanese, lower Japanese ability correlated with a higher salary.

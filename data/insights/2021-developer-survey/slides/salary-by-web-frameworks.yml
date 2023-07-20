@@ -1,0 +1,7 @@
+---
+title: Salary by web frameworks
+charts:
+  - id: salary-by-web-frameworks
+    type: BubbleLineChart
+---
+Respondents who used Spring were the best paid, despite being no more experienced than the average respondent. However, they also had [below average satisfaction with their job](#job-satisfaction-by-web-frameworks).

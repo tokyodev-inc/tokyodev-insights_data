@@ -1,0 +1,17 @@
+---
+title: Nationality correlated with salary
+charts:
+  - id: salary-by-nationality
+    type: BubbleLineChart
+  - id: salary-by-nationality-and-experience
+    title: Salary by nationality and years of experience
+    type: BubbleLineChart
+    datasets:
+      - id: salary-by-nationality-and-experience-north-america
+        label: North America
+      - id: salary-by-nationality-and-experience-europe
+        label: Europe
+      - id: salary-by-nationality-and-experience-asia
+        label: Asia
+---
+Respondents' nationalities correlated with their salary, with those from Oceania having the highest median compensation, while those from North America had the highest 75th percentile salary. The disparity in salaries extended across experience levels.

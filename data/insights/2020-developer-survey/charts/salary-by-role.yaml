@@ -1,0 +1,40 @@
+- l: Engineering manager
+  f_mean: 13222221.72
+  f_25: 10749999.5
+  f_75: 15249999.5
+- l: Developer, back-end
+  f_mean: 9104838.21
+  f_25: 5499999.5
+  f_75: 10499999.5
+- l: Data scientist or ML specialist
+  f_mean: 8462962.463
+  f_25: 5499999.5
+  f_75: 9499999.5
+- l: Developer, mobile
+  f_mean: 8416666.167
+  f_25: 6499999.5
+  f_75: 9749999.5
+- l: DevOps specialist
+  f_mean: 8346153.346
+  f_25: 6499999.5
+  f_75: 10499999.5
+- l: Developer, full-stack
+  f_mean: 8083332.833
+  f_25: 5499999.5
+  f_75: 9499999.5
+- l: Developer, desktop or enterprise
+  f_mean: 7833332.833
+  f_25: 4499999.5
+  f_75: 10499999.5
+- l: Developer, front-end
+  f_mean: 7277777.278
+  f_25: 5499999.5
+  f_75: 8499999.5
+- l: Engineer, data
+  f_mean: 7499999.5
+  f_25: 5749999.5
+  f_75: 8499999.5
+- l: Developer, game or graphics
+  f_mean: 6333332.833
+  f_25: 4499999.5
+  f_75: 6499999.5

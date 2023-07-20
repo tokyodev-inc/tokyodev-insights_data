@@ -1,0 +1,8 @@
+---
+title: Better gender balance for developers at the beginning of their career
+charts:
+  - id: gender-balance
+    type: ComboChart
+    title: Gender Minorities by Experience
+---
+While [12% of respondents overall](#gender) identified as women and non-binary, among those respondents who had less than two years of experience, 32% respondents were members of these gender minorities.

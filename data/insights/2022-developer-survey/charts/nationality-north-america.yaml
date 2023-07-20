@@ -1,0 +1,19 @@
+---
+total: 540
+rows:
+- label: American
+  response_count: 112
+- label: Canadian
+  response_count: 21
+- label: Mexican
+  response_count: 6
+- label: Salvadoran
+  response_count: 1
+- label: Cuban
+  response_count: 1
+- label: Costa Rican
+  response_count: 1
+- label: Guatemalan
+  response_count: 1
+- label: Nicaraguan
+  response_count: 1

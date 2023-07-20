@@ -1,0 +1,15 @@
+---
+- label: Never
+  response_count: 174
+- label: 1 - 10
+  response_count: 73
+- label: 10 - 19
+  response_count: 77
+- label: 20 - 29
+  response_count: 53
+- label: 30 - 39
+  response_count: 13
+- label: 40 - 49
+  response_count: 16
+- label: 50 and over
+  response_count: 14

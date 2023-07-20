@@ -1,0 +1,12 @@
+- label: Never
+  response_count: 68
+- label: 1-2 days per year
+  response_count: 46
+- label: 1-2 days per quarter
+  response_count: 59
+- label: 1-2 days per month
+  response_count: 96
+- label: 1-4 days per week
+  response_count: 62
+- label: Daily
+  response_count: 13

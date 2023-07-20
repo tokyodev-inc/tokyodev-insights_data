@@ -1,0 +1,11 @@
+---
+title: Language usage at the office
+charts:
+  - id: language-usage-english
+    type: DonutChart
+    title: English
+  - id: language-usage-japanese
+    type: DonutChart
+    title: Japanese
+---
+68% of respondents reported using both English and Japanese at the office. Frequent English usage correlated with [higher job satisfaction](#job-satisfaction-by-language-usage).

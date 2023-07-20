@@ -1,0 +1,12 @@
+---
+title: Salary by experience
+charts:
+  - id: salary-by-experience
+    type: BubbleLineChart
+    datasets:
+      - id: salary-by-experience
+        label: "2022"
+      - id: 2021/salary-by-experience-all
+        label: "2021"
+---
+Compared with the previous year, median salary increased across experience levels, the only exception being respondents with 4 - 7 years of experience, for whom it remained unchanged.

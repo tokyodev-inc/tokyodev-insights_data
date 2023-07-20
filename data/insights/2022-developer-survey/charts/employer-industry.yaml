@@ -1,0 +1,41 @@
+---
+total: 534
+rows:
+- label: SaaS (Software as a Service)
+  response_count: 138
+- label: Finance
+  response_count: 101
+- label: E-commerce
+  response_count: 99
+- label: Artificial Intelligence (AI)
+  response_count: 92
+- label: Cloud Computing
+  response_count: 63
+- label: Advertising
+  response_count: 48
+- label: Consulting
+  response_count: 47
+- label: Human Resources
+  response_count: 36
+- label: Games
+  response_count: 35
+- label: Blockchain / Cryptocurrency
+  response_count: 32
+- label: Education
+  response_count: 31
+- label: Robotics
+  response_count: 29
+- label: Hospitality / Tourism
+  response_count: 27
+- label: Healthcare
+  response_count: 25
+- label: Marketing
+  response_count: 25
+- label: Outsourced Development
+  response_count: 24
+- label: Consumer Electronics
+  response_count: 17
+- label: Food
+  response_count: 14
+- label: Others
+  response_count: 86

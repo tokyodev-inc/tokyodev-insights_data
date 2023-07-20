@@ -1,0 +1,21 @@
+---
+- label: Developer, full-stack
+  response_count: 25
+- label: Developer, back-end
+  response_count: 13
+- label: Developer, front-end
+  response_count: 10
+- label: Engineer, data
+  response_count: 2
+- label: Developer, embedded
+  response_count: 2
+- label: Engineering manager
+  response_count: 2
+- label: Engineer, site reliability
+  response_count: 2
+- label: Developer, mobile
+  response_count: 1
+- label: Product manager
+  response_count: 1
+- label: Senior executive/VP
+  response_count: 1

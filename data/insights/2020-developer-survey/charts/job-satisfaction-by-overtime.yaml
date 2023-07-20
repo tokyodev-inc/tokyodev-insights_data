@@ -1,0 +1,24 @@
+- l: Never
+  f_mean: 7.43
+  f_25: 6.75
+  f_75: 9.00
+- l: 1-2 days per year
+  f_mean: 7.07
+  f_25: 6.00
+  f_75: 8.00
+- l: 1-2 days per quarter
+  f_mean: 6.98
+  f_25: 6.00
+  f_75: 9.00
+- l: 1-2 days per month
+  f_mean: 7.06
+  f_25: 6.00
+  f_75: 8.00
+- l: 1-4 days per week
+  f_mean: 6.53
+  f_25: 5.00
+  f_75: 8.00
+- l: Daily
+  f_mean: 5.85
+  f_25: 4.00
+  f_75: 8.00

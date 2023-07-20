@@ -1,0 +1,25 @@
+---
+total: 458
+rows:
+- label: Docker
+  response_count: 342
+- label: npm
+  response_count: 210
+- label: Homebrew
+  response_count: 201
+- label: Kubernetes
+  response_count: 160
+- label: Yarn
+  response_count: 139
+- label: Terraform
+  response_count: 127
+- label: Ansible
+  response_count: 37
+- label: Unity 3D
+  response_count: 18
+- label: Chef
+  response_count: 16
+- label: Unreal Engine
+  response_count: 14
+- label: Puppet
+  response_count: 14

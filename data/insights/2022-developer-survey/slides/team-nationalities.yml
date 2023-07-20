@@ -1,0 +1,12 @@
+---
+title: Nationality of colleagues
+charts:
+  - id: nationality-engineers
+    type: DonutChart
+    title: Engineers
+  - id: nationality-others
+    type: DonutChart
+    title: Non-Engineers
+question: What is the nationality of the other people you work with?
+---
+Engineering teams tended to be highly international, whereas it wasn't uncommon for non-engineers to be mostly Japanese.

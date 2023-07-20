@@ -1,0 +1,49 @@
+---
+- l: Under ¥4.0m
+  f_mean: 5.888888888888889
+  median: 6.0
+  f_25: 4.5
+  f_75: 8.0
+  response_count: 27
+- l: "¥4.0m - 5.9m"
+  f_mean: 7.037037037037037
+  median: 8.0
+  f_25: 6.0
+  f_75: 8.0
+  response_count: 81
+- l: "¥6.0m - 7.9m"
+  f_mean: 7.548387096774194
+  median: 8.0
+  f_25: 7.0
+  f_75: 9.0
+  response_count: 124
+- l: "¥8.0m - 9.9m"
+  f_mean: 7.3924050632911396
+  median: 7.0
+  f_25: 6.5
+  f_75: 9.0
+  response_count: 79
+- l: "¥10.0m - 11.9m"
+  f_mean: 7.206896551724138
+  median: 8.0
+  f_25: 6.0
+  f_75: 8.0
+  response_count: 58
+- l: "¥12.0m - 13.9m"
+  f_mean: 7.409090909090909
+  median: 7.0
+  f_25: 6.75
+  f_75: 9.0
+  response_count: 44
+- l: "¥14.0m - 15.9m"
+  f_mean: 7.7407407407407405
+  median: 8.0
+  f_25: 7.0
+  f_75: 8.0
+  response_count: 27
+- l: "¥16.0m and over"
+  f_mean: 7.747474747474747
+  median: 8.0
+  f_25: 7.0
+  f_75: 9.0
+  response_count: 99

@@ -1,0 +1,16 @@
+- label: Under 3
+  response_count: 67
+- label: 3 - 5
+  response_count: 84
+- label: 6 - 8
+  response_count: 66
+- label: 9 - 11
+  response_count: 48
+- label: 12 - 14
+  response_count: 31
+- label: 15 - 17
+  response_count: 24
+- label: 18 - 20
+  response_count: 23
+- label: 21 and over
+  response_count: 14

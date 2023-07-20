@@ -1,0 +1,7 @@
+---
+title: Salary by age
+charts:
+  - id: salary-by-age
+    type: BubbleLineChart
+---
+47% of respondents in their 30s made at least ¥10 million.

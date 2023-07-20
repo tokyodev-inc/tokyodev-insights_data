@@ -1,0 +1,73 @@
+---
+- l: Senior executive/VP
+  f_mean: 14.75
+  median: 15.0
+  f_25: 6.75
+  f_75: 20.5
+  response_count: 16
+- l: Engineering manager
+  f_mean: 12.969696969696969
+  median: 10.0
+  f_25: 7.0
+  f_75: 17.0
+  response_count: 33
+- l: Developer, mobile
+  f_mean: 10.375
+  median: 10.0
+  f_25: 6.75
+  f_75: 11.25
+  response_count: 24
+- l: Engineer, site reliability
+  f_mean: 9.733333333333333
+  median: 9.0
+  f_25: 4.0
+  f_75: 15.0
+  response_count: 15
+- l: Developer, desktop or enterprise
+  f_mean: 9.1
+  median: 7.0
+  f_25: 5.0
+  f_75: 14.0
+  response_count: 10
+- l: Developer, embedded
+  f_mean: 6.85
+  median: 7.0
+  f_25: 2.25
+  f_75: 8.0
+  response_count: 10
+- l: Developer, game or graphics
+  f_mean: 7.75
+  median: 5.5
+  f_25: 4.0
+  f_75: 9.5
+  response_count: 14
+- l: Developer, back-end
+  f_mean: 6.593333333333334
+  median: 5.0
+  f_25: 3.0
+  f_75: 9.5
+  response_count: 75
+- l: Developer, full-stack
+  f_mean: 6.5707545454545455
+  median: 5.0
+  f_25: 2.0
+  f_75: 9.75
+  response_count: 110
+- l: Developer, front-end
+  f_mean: 6.336538461538462
+  median: 5.0
+  f_25: 2.5
+  f_75: 9.25
+  response_count: 52
+- l: Engineer, data
+  f_mean: 5.045454545454546
+  median: 4.5
+  f_25: 3.5
+  f_75: 6.5
+  response_count: 11
+- l: Data scientist or ML specialist
+  f_mean: 5.659090909090909
+  median: 4.0
+  f_25: 3.0
+  f_75: 6.75
+  response_count: 22

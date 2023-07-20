@@ -1,0 +1,12 @@
+- l: Never
+  f_mean: 6.111111111
+  f_25: 4
+  f_75: 8
+- l: Sometimes
+  f_mean: 6.5
+  f_25: 5
+  f_75: 8
+- l: Frequently
+  f_mean: 7.194331984
+  f_25: 6
+  f_75: 9

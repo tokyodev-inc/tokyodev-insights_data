@@ -1,0 +1,19 @@
+---
+title: Years of experience by technology
+charts:
+  - id: experience-by-technologies
+    type: BubbleLineChart
+    formatter: number
+    datasets:
+      - id: experience-by-programming-languages
+        label: Languages
+      - id: experience-by-databases
+        label: Databases
+      - id: experience-by-web-frameworks
+        label: Web frameworks
+      - id: experience-by-other-frameworks
+        label: Other frameworks
+      - id: experience-by-developer-tools
+        label: Tools
+---
+Laravel was the technology with the lowest median years of experience.

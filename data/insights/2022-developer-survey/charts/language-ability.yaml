@@ -1,0 +1,25 @@
+---
+columns:
+- English
+- Japanese
+rows:
+- label: None
+  response_counts:
+  - 3
+  - 26
+- label: Basic
+  response_counts:
+  - 5
+  - 140
+- label: Conversational
+  response_counts:
+  - 39
+  - 235
+- label: Fluent
+  response_counts:
+  - 206
+  - 128
+- label: Native / bilingual
+  response_counts:
+  - 304
+  - 28

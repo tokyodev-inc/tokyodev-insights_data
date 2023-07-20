@@ -1,0 +1,11 @@
+---
+- label: Japanese company
+  response_count: 281
+- label: International subsidiary
+  response_count: 93
+- label: Company without Japanese entity
+  response_count: 29
+- label: Sole proprietorship
+  response_count: 15
+- label: Others
+  response_count: 6

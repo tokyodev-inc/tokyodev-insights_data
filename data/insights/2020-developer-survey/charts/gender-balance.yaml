@@ -1,0 +1,10 @@
+- label: Under 2
+  percentage: 32.43
+- label: 2 - 3
+  percentage: 12.90
+- label: 4 - 7
+  percentage: 7.53
+- label: 8 - 15
+  percentage: 8.40
+- label: 16 and over
+  percentage: 10.26

@@ -1,0 +1,7 @@
+---
+title: Salary by programming languages
+charts:
+  - id: salary-by-programming-languages
+    type: BubbleLineChart
+---
+Developers who used Rust had the highest salary, while they had the third highest average number of years of experience, following C and Objective-C developers, indicating that the programming languages used on the job have some correlation with the salary.

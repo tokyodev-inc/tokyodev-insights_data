@@ -1,0 +1,45 @@
+---
+total: 522
+rows:
+- label: Visual Studio Code
+  response_count: 339
+- label: IntelliJ
+  response_count: 124
+- label: Vim
+  response_count: 108
+- label: Xcode
+  response_count: 65
+- label: Sublime Text
+  response_count: 59
+- label: Visual Studio
+  response_count: 53
+- label: Android Studio
+  response_count: 40
+- label: IPython/Jupyter
+  response_count: 36
+- label: Notepad++
+  response_count: 33
+- label: PyCharm
+  response_count: 33
+- label: GoLand
+  response_count: 26
+- label: Neovim
+  response_count: 26
+- label: Emacs
+  response_count: 24
+- label: Eclipse
+  response_count: 19
+- label: RubyMine
+  response_count: 15
+- label: PhpStorm
+  response_count: 12
+- label: CLion
+  response_count: 12
+- label: Nano
+  response_count: 11
+- label: Webstorm
+  response_count: 10
+- label: Atom
+  response_count: 10
+- label: Rider
+  response_count: 8

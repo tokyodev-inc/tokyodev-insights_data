@@ -1,0 +1,55 @@
+---
+- l: Under 2
+  f_mean: 7.285714285714286
+  median: 8.0
+  f_25: 6.25
+  f_75: 9.0
+  response_count: 42
+- l: 2 - 3
+  f_mean: 7.0
+  median: 7.0
+  f_25: 6.0
+  f_75: 8.0
+  response_count: 72
+- l: 4 - 5
+  f_mean: 7.368421052631579
+  median: 8.0
+  f_25: 7.0
+  f_75: 8.0
+  response_count: 76
+- l: 6 - 7
+  f_mean: 6.859649122807017
+  median: 7.0
+  f_25: 6.0
+  f_75: 8.0
+  response_count: 57
+- l: 8 - 9
+  f_mean: 7.885714285714286
+  median: 8.0
+  f_25: 7.0
+  f_75: 9.0
+  response_count: 35
+- l: 10 - 11
+  f_mean: 7.076923076923077
+  median: 8.0
+  f_25: 6.5
+  f_75: 8.5
+  response_count: 39
+- l: 12 - 13
+  f_mean: 6.538461538461538
+  median: 6.5
+  f_25: 5.0
+  f_75: 8.0
+  response_count: 26
+- l: 14 - 15
+  f_mean: 7.846153846153846
+  median: 8.0
+  f_25: 7.0
+  f_75: 9.0
+  response_count: 26
+- l: 16 and over
+  f_mean: 7.583333333333333
+  median: 8.0
+  f_25: 7.0
+  f_75: 9.0
+  response_count: 48

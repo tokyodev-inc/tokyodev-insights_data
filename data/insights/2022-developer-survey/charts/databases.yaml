@@ -1,0 +1,33 @@
+---
+total: 424
+rows:
+- label: PostgreSQL
+  response_count: 199
+- label: MySQL
+  response_count: 174
+- label: Redis
+  response_count: 105
+- label: MongoDB
+  response_count: 81
+- label: Elasticsearch
+  response_count: 72
+- label: DynamoDB
+  response_count: 64
+- label: SQLite
+  response_count: 54
+- label: MariaDB
+  response_count: 35
+- label: Microsoft SQL Server
+  response_count: 28
+- label: Cassandra
+  response_count: 19
+- label: Oracle
+  response_count: 17
+- label: Firebase Realtime Database
+  response_count: 14
+- label: Cloud Firestore
+  response_count: 12
+- label: BigQuery
+  response_count: 7
+- label: Spanner
+  response_count: 5

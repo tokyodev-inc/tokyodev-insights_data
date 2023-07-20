@@ -1,0 +1,73 @@
+---
+- l: Restricted stock units (RSUs)
+  f_mean: 15741379.310344828
+  median: 13500000.0
+  f_25: 10500000.0
+  f_75: 19500000.0
+  response_count: 58
+- l: Private pension
+  f_mean: 14744897.959183674
+  median: 12500000.0
+  f_25: 7500000.0
+  f_75: 20500000.0
+  response_count: 49
+- l: Free / subsidized seminars
+  f_mean: 11642857.142857144
+  median: 10500000.0
+  f_25: 7500000.0
+  f_75: 13000000.0
+  response_count: 91
+- l: Sick leave
+  f_mean: 11551428.57142857
+  median: 9500000.0
+  f_25: 6500000.0
+  f_75: 14500000.0
+  response_count: 175
+- l: Generous vacation policy
+  f_mean: 11238636.363636363
+  median: 9500000.0
+  f_25: 6500000.0
+  f_75: 12750000.0
+  response_count: 176
+- l: Free / subsidized Japanese lessons
+  f_mean: 11230769.23076923
+  median: 9500000.0
+  f_25: 7500000.0
+  f_75: 12500000.0
+  response_count: 143
+- l: Nice office environment
+  f_mean: 11124203.82165605
+  median: 9500000.0
+  f_25: 6500000.0
+  f_75: 12500000.0
+  response_count: 157
+- l: Stock options
+  f_mean: 10342741.935483871
+  median: 9500000.0
+  f_25: 6500000.0
+  f_75: 12500000.0
+  response_count: 124
+- l: Flextime
+  f_mean: 10038720.538720539
+  median: 8500000.0
+  f_25: 6500000.0
+  f_75: 11500000.0
+  response_count: 297
+- l: Option to work fully remotely
+  f_mean: 9956692.913385827
+  median: 8500000.0
+  f_25: 6500000.0
+  f_75: 11500000.0
+  response_count: 254
+- l: Commuting allowance
+  f_mean: 9732558.139534883
+  median: 8500000.0
+  f_25: 6500000.0
+  f_75: 11500000.0
+  response_count: 301
+- l: Housing allowance
+  f_mean: 9274509.80392157
+  median: 6500000.0
+  f_25: 5500000.0
+  f_75: 11500000.0
+  response_count: 51

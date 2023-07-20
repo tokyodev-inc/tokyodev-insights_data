@@ -1,0 +1,8 @@
+---
+title: Job search status
+charts:
+  - id: job-search-status
+    type: DonutChart
+question: Are you currently searching for a new job?
+---
+Respondents who were actively looking for a new job had a median salary of ¥6.5 million, whereas for those who weren't looking, it was ¥9.5 million. Part of the difference could be explained by those actively looking having a median of 5 years of professional experience, whereas those who weren't had 7 years.

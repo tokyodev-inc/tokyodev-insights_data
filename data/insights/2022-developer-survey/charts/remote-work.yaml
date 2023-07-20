@@ -1,0 +1,9 @@
+---
+- label: Fully remote
+  response_count: 84
+- label: Up to the employee
+  response_count: 300
+- label: Hybrid
+  response_count: 140
+- label: No remote work
+  response_count: 21

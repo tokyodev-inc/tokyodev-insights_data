@@ -1,0 +1,26 @@
+---
+title: Respondents making under ¥6 million less satisfied with their job
+charts:
+  - id: satisfaction-by-salary
+    type: BubbleLineChart
+    formatter: number
+    x_axis_min_value: 1
+    x_axis_max_value: 10
+    title: Satisfaction by salary
+    datasets:
+      - id: overall-satisfaction-by-salary
+        label: Overall
+      - id: compensation-satisfaction-by-salary
+        label: Compensation
+      - id: management-satisfaction-by-salary
+        label: Management
+      - id: work-satisfaction-by-salary
+        label: Work Itself
+      - id: colleague-satisfaction-by-salary
+        label: Colleagues
+---
+Respondents with a higher compensation scored themselves as being overall more satisfied with their job.
+
+Unsurprisingly, the respondents satisfaction with their compensation was highly correlated with the compensation itself. While respondents with a compensation under ¥4 million had a median compensation satisfaction of 5, respondents earning over ¥16 million had a median of 9.
+
+The weakest correlation was with colleague satisfaction, with even respondents making under ¥4 million per year having a median colleague satisfaction of 8.

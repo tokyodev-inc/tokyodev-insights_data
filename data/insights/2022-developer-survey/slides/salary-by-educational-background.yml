@@ -1,0 +1,19 @@
+---
+title: Educational background doesn't significantly impact salary
+charts:
+  - id: salary-by-educational-background
+    type: BubbleLineChart
+  - id: salary-by-educational-background-and-experience
+    title: "Salary by educational background and experience"
+    type: BubbleLineChart
+    datasets:
+      - id: salary-by-educational-background-and-experience-bachelors
+        label: Bachelor's
+      - id: salary-by-educational-background-and-experience-masters
+        label: Master's
+      - id: salary-by-educational-background-and-experience-coding-bootcamp
+        label: Bootcamp
+      - id: salary-by-educational-background-and-experience-other
+        label: Other qualification
+---
+While respondents who had attended a coding bootcamp had the lowest compensation, this appears to be because they have a median of only 2 years of professional experience. Overall, after adjusting for professional experience, educational background did not appear to have a significant effect on salary.

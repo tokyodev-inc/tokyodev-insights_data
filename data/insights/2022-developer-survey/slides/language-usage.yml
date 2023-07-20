@@ -1,0 +1,16 @@
+---
+title: Language usage
+charts:
+  - id: language-usage
+    type: TwoSidedBarChart
+    datasets:
+      - id: language-usage
+        label: All
+      - id: language-usage-native
+        label: Native Japanese Speakers
+      - id: language-usage-conversational
+        label: Conversational Japanese Speakers
+
+question: What languages do you use with your colleagues?
+---
+Japanese language usage correlated with Japanese ability, with native / bi-lingual speakers using it 80% of the time, whereas those with conversational abilities used it only 22% of the time.

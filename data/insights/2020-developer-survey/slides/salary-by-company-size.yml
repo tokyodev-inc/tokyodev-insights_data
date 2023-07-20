@@ -1,0 +1,8 @@
+---
+title: The larger the company, the better it pays
+charts:
+  - id: salary-by-company-size
+    title: Salary by Worldwide Employee Count
+    type: BubbleLineChart
+---
+Average salaries scaled with [the count of worldwide employees](#company-size).

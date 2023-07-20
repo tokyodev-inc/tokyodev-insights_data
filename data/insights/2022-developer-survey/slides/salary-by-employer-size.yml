@@ -1,0 +1,7 @@
+---
+title: Salary increased with employer size
+charts:
+  - id: salary-by-employer-size
+    type: BubbleLineChart
+---
+With the exception of the smallest employers, salaries increased with the number of employees at the employer.

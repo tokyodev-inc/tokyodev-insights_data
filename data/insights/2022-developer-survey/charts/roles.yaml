@@ -1,0 +1,55 @@
+---
+total: 545
+rows:
+- label: Developer, back-end
+  response_count: 232
+- label: Developer, full-stack
+  response_count: 196
+- label: Developer, front-end
+  response_count: 106
+- label: Engineering manager
+  response_count: 57
+- label: Cloud infrastructure engineer
+  response_count: 54
+- label: Developer, mobile
+  response_count: 45
+- label: DevOps specialist
+  response_count: 40
+- label: Data scientist or ML specialist
+  response_count: 39
+- label: Engineer, site reliability
+  response_count: 38
+- label: Engineer, data
+  response_count: 38
+- label: Developer, embedded
+  response_count: 26
+- label: Developer, desktop or enterprise
+  response_count: 22
+- label: Product manager
+  response_count: 22
+- label: Developer, game or graphics
+  response_count: 22
+- label: Senior executive (C-Suite, VP, etc.)
+  response_count: 21
+- label: Designer
+  response_count: 20
+- label: System administrator
+  response_count: 19
+- label: Database administrator
+  response_count: 16
+- label: Developer, QA or test
+  response_count: 15
+- label: Blockchain
+  response_count: 15
+- label: Data or business analyst
+  response_count: 13
+- label: Security professional
+  response_count: 10
+- label: Academic researcher
+  response_count: 9
+- label: Scientist
+  response_count: 8
+- label: Educator
+  response_count: 8
+- label: Marketing or sales professional
+  response_count: 5

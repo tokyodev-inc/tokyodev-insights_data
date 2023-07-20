@@ -1,0 +1,34 @@
+total: 246
+rows:
+  - label: Coworkers
+    response_count: 46
+  - label: Autonomy / Freedom
+    response_count: 41
+  - label: Flexibility
+    response_count: 41
+  - label: Culture / Work Environment
+    response_count: 34
+  - label: Work / Life Balance
+    response_count: 33
+  - label: Work Itself
+    response_count: 26
+  - label: Working Remotely
+    response_count: 25
+  - label: Personal Growth
+    response_count: 16
+  - label: Salary
+    response_count: 13
+  - label: Easy / Low Stress
+    response_count: 12
+  - label: Mission / Product Itself
+    response_count: 11
+  - label: Job safety / Stability
+    response_count: 9
+  - label: Influence / Responsibility
+    response_count: 7
+  - label: Technology Used
+    response_count: 7
+  - label: Company Itself
+    response_count: 6
+  - label: Other
+    response_count: 26

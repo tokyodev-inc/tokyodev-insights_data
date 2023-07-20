@@ -1,0 +1,16 @@
+- l: Company without Japanese entity
+  f_mean: 11346153.37
+  f_25: 6499999.5
+  f_75: 14249999.5
+- l: Sole proprietorship
+  f_mean: 10772726.77
+  f_25: 7999999.5
+  f_75: 15499999.5
+- l: International subsidiary
+  f_mean: 10685483.37
+  f_25: 7499999.5
+  f_75: 13249999.5
+- l: Japanese company
+  f_mean: 7484580.998
+  f_25: 5499999.5
+  f_75: 8499999.5

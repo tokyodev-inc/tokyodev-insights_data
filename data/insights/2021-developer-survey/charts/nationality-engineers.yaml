@@ -1,0 +1,7 @@
+---
+- label: Mostly Japanese
+  response_count: 66
+- label: Mix
+  response_count: 184
+- label: Mostly non-Japanese
+  response_count: 170

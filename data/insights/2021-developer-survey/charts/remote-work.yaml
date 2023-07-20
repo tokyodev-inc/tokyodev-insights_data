@@ -1,0 +1,11 @@
+---
+- label: Daily
+  response_count: 291
+- label: Often, 3-4 days per week
+  response_count: 86
+- label: Occasionally, 1-2 days per week
+  response_count: 22
+- label: Rarely, 1-2 days per month or less
+  response_count: 11
+- label: Never
+  response_count: 15

@@ -1,0 +1,8 @@
+---
+title: Gender
+charts:
+  - id: gender
+    type: DonutChart
+question: Which of the following describe you, if any?
+---
+The overwhelming majority of respondents described themselves as male. While we had respondents who identify as neither male or female, we didn’t get enough responses to further segment their data while maintaining the anonymity of the individuals.

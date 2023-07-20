@@ -1,0 +1,8 @@
+---
+title: Overtime by Japanese usage
+charts:
+  - id: overtime-by-japanese-usage
+    type: BubbleLineChart
+    formatter: number
+---
+Increased Japanese usage correlated with more overtime.

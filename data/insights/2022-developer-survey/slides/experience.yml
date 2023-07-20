@@ -1,0 +1,13 @@
+---
+title: Professional software development experience
+question: How many years of professional experience do you have in software development?
+charts:
+  - id: experience
+    type: ComboChart
+    datasets:
+      - id: experience
+        label: "2022"
+      - id: 2021/experience
+        label: "2021"
+---
+The median respondent had 7 years of professional software development experience, up one year from 2021's survey.

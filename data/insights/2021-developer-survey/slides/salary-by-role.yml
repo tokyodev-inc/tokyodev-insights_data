@@ -1,0 +1,7 @@
+---
+title: Salary by role
+charts:
+  - id: salary-by-role
+    type: BubbleLineChart
+---
+Back-end developers earned about ¥1.5 million more than those who selected front-end or full-stack roles, despite having a similar level of experience.

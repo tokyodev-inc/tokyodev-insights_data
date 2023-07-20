@@ -1,0 +1,45 @@
+---
+columns:
+- Women
+- Men
+rows:
+- label: 10
+  response_counts:
+  - 6
+  - 74
+- label: 9
+  response_counts:
+  - 7
+  - 64
+- label: 8
+  response_counts:
+  - 15
+  - 113
+- label: 7
+  response_counts:
+  - 4
+  - 82
+- label: 6
+  response_counts:
+  - 3
+  - 50
+- label: 5
+  response_counts:
+  - 10
+  - 33
+- label: 4
+  response_counts:
+  - 2
+  - 18
+- label: 3
+  response_counts:
+  - 2
+  - 22
+- label: 2
+  response_counts:
+  - 0
+  - 12
+- label: 1
+  response_counts:
+  - 3
+  - 7

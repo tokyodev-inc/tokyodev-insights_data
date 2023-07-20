@@ -1,0 +1,10 @@
+---
+title: Job satisfaction by web framework
+charts:
+  - id: job-satisfaction-by-web-frameworks
+    type: BubbleLineChart
+    formatter: number
+    x_axis_min_value: 1
+    x_axis_max_value: 10
+---
+Laravel developers were not only the least satisfied with their job, but also had [the lowest salary](#salary-by-web-frameworks).

@@ -1,0 +1,17 @@
+---
+- label: Headhunter / external recruiter
+  response_count: 122
+- label: Networking
+  response_count: 92
+- label: Job board
+  response_count: 86
+- label: Referral
+  response_count: 67
+- label: Company website
+  response_count: 62
+- label: Internal recruiter from company
+  response_count: 60
+- label: Job fair
+  response_count: 15
+- label: Others
+  response_count: 32

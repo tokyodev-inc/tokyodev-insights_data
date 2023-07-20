@@ -1,0 +1,13 @@
+---
+title: Role
+question: Which of these best describes your current role?
+charts:
+  - id: role
+    type: ComboChart
+    datasets:
+      - id: role
+        label: All respondents
+      - id: role-coding-bootcamp
+        label: "Bootcamp grads"
+---
+Full-stack, back-end, front-end developers made up 57% of respodents. Among coding bootcamp grads, that percentage rose to 81%.

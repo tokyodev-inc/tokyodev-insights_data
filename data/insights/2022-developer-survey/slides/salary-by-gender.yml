@@ -1,0 +1,18 @@
+---
+title: Women had lower compensation then men
+charts:
+  - id: salary-by-gender
+    title: Overall
+    type: BubbleLineChart
+  - id: salary-by-gender-and-experience
+    title: "Salary by gender and years of experience"
+    type: BubbleLineChart
+    datasets:
+      - id: salary-by-gender-and-experience-women
+        label: Women
+      - id: salary-by-gender-and-experience-men
+        label: Men
+---
+Women tended to be less experienced than men, having a mean of 5 years experience compared to 8 years for men, partially explaining the difference in compensation. However, even when comparing the genders across similar experience levels, this gap in pay remained.
+
+Men were also more likely then women to have a high paying role: while 21% of men had a role that was among the [top five highest paying](#salary-by-role), only 4% of women did.

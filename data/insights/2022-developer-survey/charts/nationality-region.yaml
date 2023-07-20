@@ -1,0 +1,13 @@
+---
+- label: Europe
+  response_count: 203
+- label: North America
+  response_count: 144
+- label: Asia
+  response_count: 132
+- label: Oceania
+  response_count: 36
+- label: South America
+  response_count: 16
+- label: Africa
+  response_count: 9

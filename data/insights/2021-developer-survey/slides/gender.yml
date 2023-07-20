@@ -1,0 +1,8 @@
+---
+title: Gender
+charts:
+  - id: gender
+    type: DonutChart
+question: What is your gender?
+---
+90% of respondents identified as male.

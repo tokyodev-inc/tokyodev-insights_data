@@ -1,0 +1,11 @@
+---
+total: 395
+rows:
+- label: University degree (Related)
+  response_count: 285
+- label: University degree (Unrelated)
+  response_count: 106
+- label: Coding bootcamp
+  response_count: 62
+- label: Other professional qualification
+  response_count: 47

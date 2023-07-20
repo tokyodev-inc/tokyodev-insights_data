@@ -1,0 +1,13 @@
+---
+title: How employer could improve job satisfaction
+question: What could your employer do to improve your job satisfaction?
+charts:
+  - id: how-to-improve-satisfaction
+    type: ComboChart
+    datasets:
+      - id: how-to-improve-satisfaction
+        label: "All"
+      - id: how-to-improve-satisfaction-satisfied-compensation
+        label: "Satisfied with compensation"
+---
+53% of respondents said their job satisfaction could be improved by increasing compensation. Among respondents who rated their satisfaction with compensation as 10 out 10, respondents were looking for more interesting or higher impact work.

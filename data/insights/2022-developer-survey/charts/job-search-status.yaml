@@ -1,0 +1,7 @@
+---
+- label: Not looking but open
+  response_count: 307
+- label: Not looking
+  response_count: 189
+- label: Actively looking
+  response_count: 61

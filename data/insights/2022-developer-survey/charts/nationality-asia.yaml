@@ -1,0 +1,43 @@
+---
+total: 540
+rows:
+- label: Japanese
+  response_count: 31
+- label: Indian
+  response_count: 22
+- label: Taiwanese
+  response_count: 12
+- label: Indonesian
+  response_count: 11
+- label: Filipino
+  response_count: 11
+- label: Vietnamese
+  response_count: 10
+- label: Malaysian
+  response_count: 5
+- label: Chinese
+  response_count: 5
+- label: Bangladeshi
+  response_count: 4
+- label: Singaporean
+  response_count: 3
+- label: Mongolian
+  response_count: 3
+- label: Thai
+  response_count: 3
+- label: Sri Lankan
+  response_count: 2
+- label: Israeli
+  response_count: 2
+- label: Nepalese
+  response_count: 2
+- label: Hong Kongese
+  response_count: 2
+- label: Azerbaijani
+  response_count: 1
+- label: Uzbekistani
+  response_count: 1
+- label: Syrian
+  response_count: 1
+- label: Kazakhstani
+  response_count: 1

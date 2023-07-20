@@ -1,0 +1,7 @@
+---
+- label: Woman
+  response_count: 55
+- label: Man
+  response_count: 487
+- label: Non-binary, genderqueer, or gender non-conforming
+  response_count: 6

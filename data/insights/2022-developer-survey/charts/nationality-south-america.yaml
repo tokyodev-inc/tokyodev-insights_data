@@ -1,0 +1,17 @@
+---
+total: 540
+rows:
+- label: Brazilian
+  response_count: 8
+- label: Chilean
+  response_count: 2
+- label: Colombian
+  response_count: 2
+- label: Peruvian
+  response_count: 1
+- label: Paraguayan
+  response_count: 1
+- label: Venezuelan
+  response_count: 1
+- label: Argentinean
+  response_count: 1

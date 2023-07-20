@@ -1,0 +1,17 @@
+---
+- label: Engineer
+  response_count: 220
+- label: Permanent resident
+  response_count: 88
+- label: Dependent of a Japanese national
+  response_count: 59
+- label: Highly skilled foreign professional
+  response_count: 33
+- label: Japanese citizen
+  response_count: 21
+- label: Student
+  response_count: 8
+- label: Investor / business manager
+  response_count: 3
+- label: Dependent (of foreign resident)
+  response_count: 2

@@ -1,0 +1,35 @@
+---
+total: 292
+rows:
+- label: React.js
+  response_count: 139
+- label: Vue.js
+  response_count: 75
+- label: Ruby on Rails
+  response_count: 70
+- label: Spring
+  response_count: 43
+- label: Express
+  response_count: 37
+- label: jQuery
+  response_count: 37
+- label: Angular
+  response_count: 20
+- label: Django
+  response_count: 20
+- label: Laravel
+  response_count: 17
+- label: Flask
+  response_count: 17
+- label: FastAPI
+  response_count: 11
+- label: ASP.NET Core
+  response_count: 9
+- label: ASP.NET
+  response_count: 7
+- label: Phoenix
+  response_count: 6
+- label: Angular.js
+  response_count: 5
+- label: Hotwire (Stimulus / Turbo)
+  response_count: 5

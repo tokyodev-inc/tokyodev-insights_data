@@ -1,0 +1,10 @@
+---
+title: Job Satisfaction by salary
+charts:
+  - id: job-satisfaction-by-salary
+    type: BubbleLineChart
+    formatter: number
+    x_axis_min_value: 1
+    x_axis_max_value: 10
+---
+While respondents with an annual salary under ¥8 million had a median satisfaction of 7, those earning more than that scored 8. There wasn't an obvious correlation between experience and job satisfaction.

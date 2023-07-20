@@ -1,0 +1,11 @@
+---
+total: 516
+rows:
+- label: Public holidays
+  response_count: 498
+- label: New Year's holidays
+  response_count: 424
+- label: Sick leave
+  response_count: 263
+- label: Obon or Summer holidays
+  response_count: 243

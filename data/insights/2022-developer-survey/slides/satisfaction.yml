@@ -1,0 +1,22 @@
+---
+title: Satisfaction
+chapter: Satisfaction
+question: Overall, how satisfied are you with your job? How satisfied are you with your compensation? How satisfied are you with the management of your current employer? How satisfied are you with the work itself? How satisfied are you with your colleagues?
+charts:
+  - id: satisfaction
+    type: ComboChart
+    datasets:
+      - id: overall-satisfaction
+        label: "Overall"
+      - id: compensation-satisfaction
+        label: "Compensation"
+      - id: management-satisfaction
+        label: "Management"
+      - id: work-satisfaction
+        label: "Work itself"
+      - id: colleague-satisfaction
+        label: "Colleagues"
+---
+Respondents reported how satisfied they were with their current job on a scale of one to ten. The median score was 8 for all measures of satisfaction we asked for, with the exception of compensation, which had a median score of 7.
+
+Of all the measures of satisfaction, the highest percentage were completely satisfied with their colleagues, at 24%.

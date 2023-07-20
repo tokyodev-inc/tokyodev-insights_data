@@ -1,0 +1,31 @@
+---
+- l: Bachelor's degree (related)
+  f_mean: 11711143.695014663
+  median: 9500000.0
+  f_25: 6500000.0
+  f_75: 14500000.0
+  response_count: 341
+- l: Master's degree (related)
+  f_mean: 12560344.827586208
+  median: 10500000.0
+  f_25: 6500000.0
+  f_75: 15500000.0
+  response_count: 174
+- l: PhD (Related)
+  f_mean: 9500000.0
+  median: 9500000.0
+  f_25: 5500000.0
+  f_75: 12500000.0
+  response_count: 17
+- l: Coding bootcamp
+  f_mean: 7568965.517241379
+  median: 6500000.0
+  f_25: 5500000.0
+  f_75: 8500000.0
+  response_count: 58
+- l: Other professional qualification
+  f_mean: 10821428.57142857
+  median: 8500000.0
+  f_25: 6500000.0
+  f_75: 12500000.0
+  response_count: 42

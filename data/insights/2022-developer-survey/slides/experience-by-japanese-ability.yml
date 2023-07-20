@@ -1,0 +1,9 @@
+---
+title: Lower Japanese ability correlated with more professional experience
+charts:
+  - id: experience-by-japanese-ability
+    type: BubbleLineChart
+    formatter: number
+    title: Years of experience by Japanese ability
+---
+With the exception of respondents who didn't have any Japanese ability or who were native speakers, lower Japanese ability correlated with more years of professional software development experience.

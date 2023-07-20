@@ -1,0 +1,8 @@
+---
+title: Years of experience by role
+charts:
+  - id: experience-by-role
+    type: BubbleLineChart
+    formatter: number
+---
+Respondents with the role Developer, QA or test had the widest range of professional experience, with the 25th percentile having 3 years while the 75th percentile had 22.5 years.

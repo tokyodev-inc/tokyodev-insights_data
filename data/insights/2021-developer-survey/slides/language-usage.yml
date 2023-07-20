@@ -1,0 +1,8 @@
+---
+title: Language usage
+charts:
+  - id: language-usage
+    type: TwoSidedBarChart
+question: What languages do you use with your colleagues?
+---
+While most respondents frequently used English with their colleagues, Japanese usage was across the board.

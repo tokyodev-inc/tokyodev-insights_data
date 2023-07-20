@@ -1,0 +1,25 @@
+---
+- l: Frequently
+  f_mean: 10150641.025641026
+  median: 8500000.0
+  f_25: 6500000.0
+  f_75: 11500000.0
+  response_count: 312
+- l: Sometimes
+  f_mean: 8065217.391304348
+  median: 7500000.0
+  f_25: 5000000.0
+  f_75: 8500000.0
+  response_count: 23
+- l: Rarely
+  f_mean: 7327586.206896552
+  median: 6500000.0
+  f_25: 4500000.0
+  f_75: 10500000.0
+  response_count: 29
+- l: Never
+  f_mean: 5968750.0
+  median: 6000000.0
+  f_25: 4250000.0
+  f_75: 6750000.0
+  response_count: 32

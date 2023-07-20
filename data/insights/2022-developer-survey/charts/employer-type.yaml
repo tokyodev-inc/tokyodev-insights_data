@@ -1,0 +1,11 @@
+---
+- label: Japanese company
+  response_count: 345
+- label: International subsidiary
+  response_count: 144
+- label: Company without Japanese entity
+  response_count: 44
+- label: Sole proprietorship
+  response_count: 13
+- label: Educational Institution
+  response_count: 1

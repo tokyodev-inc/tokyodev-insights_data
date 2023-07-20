@@ -1,0 +1,7 @@
+---
+- label: Female
+  response_count: 40
+- label: Male
+  response_count: 382
+- label: Non-binary
+  response_count: 4

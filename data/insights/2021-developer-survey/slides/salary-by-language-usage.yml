@@ -1,0 +1,12 @@
+---
+title: Salary by language usage
+charts:
+  - id: salary-by-language-usage
+    type: BubbleLineChart
+    datasets:
+      - id: salary-by-language-usage-english
+        label: "English"
+      - id: salary-by-language-usage-japanese
+        label: "Japanese"
+---
+The more often a respondent used English with their colleagues, the better they were paid. While respondents who used Japanese frequently tended to be paid less than those who never used it, the contrast wasn't as stark. Furthermore, people who frequently use English but never use Japanese tend to be compensated better than those who frequently use both languages.

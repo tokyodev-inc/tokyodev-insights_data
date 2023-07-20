@@ -1,0 +1,13 @@
+---
+total: 468
+rows:
+- label: Bachelor's degree (related)
+  response_count: 348
+- label: Master's degree (related)
+  response_count: 177
+- label: PhD (Related)
+  response_count: 19
+- label: Coding bootcamp
+  response_count: 61
+- label: Other professional qualification
+  response_count: 43

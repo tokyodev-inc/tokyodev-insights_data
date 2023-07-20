@@ -1,0 +1,11 @@
+---
+title: Swift developers most satisfied, PHP developers least satisfied
+charts:
+  - id: job-satisfaction-by-programming-language
+    type: BubbleLineChart
+    title: Job Satisfaction by Programming Language
+    formatter: number
+    x_axis_min_value: 1
+    x_axis_max_value: 10
+---
+With the exception of a few outliers, programming languages didn't strongly correlate with job satisfaction. As respondents who used PHP also had the [lowest salaries](#salary-by-programming-language), this could in part explain their low satisfaction. On the other hand, neither Swift nor Objective-C correlated with exceptionally high salaries, indicating that there is more to this correlation than it just being a proxy for salary.

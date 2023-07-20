@@ -1,0 +1,8 @@
+---
+title: Salary takes a big jump at 5 years of experience
+charts:
+  - id: salary-by-experience
+    title: Salary by Experience
+    type: BubbleLineChart
+---
+At five years of experience, we saw a big jump in compensation, with a developers who had four years of experience averaging ¥6.5 million but those with five years averaging ¥8.9 million.

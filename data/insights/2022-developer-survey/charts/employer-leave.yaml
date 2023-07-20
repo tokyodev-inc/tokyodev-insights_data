@@ -1,0 +1,11 @@
+---
+- label: The legal minimum
+  response_count: 271
+- label: 20 days/year upon joining
+  response_count: 113
+- label: Unlimited leave
+  response_count: 72
+- label: No paid leave
+  response_count: 20
+- label: Others
+  response_count: 64

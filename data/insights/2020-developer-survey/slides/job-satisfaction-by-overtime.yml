@@ -1,0 +1,11 @@
+---
+title: Shocking no one, developers who work less overtime more satisfied
+charts:
+  - id: job-satisfaction-by-overtime
+    title: Job Satisfaction by Overtime Frequency
+    type: BubbleLineChart
+    formatter: number
+    x_axis_min_value: 1
+    x_axis_max_value: 10
+---
+While there was no strong correlation between [frequency of overtime](#overtime) and salary, there was a clear correlation between the frequency and job satisfaction.

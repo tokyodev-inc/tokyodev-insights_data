@@ -1,0 +1,31 @@
+---
+- l: None
+  f_mean: 7.884615384615385
+  median: 7.5
+  f_25: 5.0
+  f_75: 10.75
+  response_count: 26
+- l: Basic
+  f_mean: 9.707142857142857
+  median: 8.0
+  f_25: 5.0
+  f_75: 13.0
+  response_count: 140
+- l: Conversational
+  f_mean: 8.451063829787234
+  median: 7.0
+  f_25: 3.0
+  f_75: 12.0
+  response_count: 235
+- l: Fluent
+  f_mean: 6.968253968253968
+  median: 6.0
+  f_25: 3.0
+  f_75: 10.0
+  response_count: 126
+- l: Native / bilingual
+  f_mean: 10.0
+  median: 7.0
+  f_25: 4.75
+  f_75: 15.0
+  response_count: 28

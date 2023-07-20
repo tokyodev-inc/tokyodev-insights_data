@@ -1,0 +1,10 @@
+- label: Employed full-time
+  response_count: 316
+- label: Freelancer or self-employed
+  response_count: 23
+- label: Not employed, but looking for work
+  response_count: 15
+- label: Employed part-time
+  response_count: 5
+- label: Student
+  response_count: 3

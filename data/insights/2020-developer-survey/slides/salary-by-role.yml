@@ -1,0 +1,10 @@
+---
+title: Engineering managers paid considerably more than other roles
+charts:
+  - id: salary-by-role
+    title: Salary by Role
+    type: BubbleLineChart
+---
+Engineering managers stood out as being considerably better compensated than other [roles](#role). Part of this was because they tended to be more [experienced](#experience), with an average of 11.7 years as opposed to 8.3 years for non-managers.
+
+However, as *Developer, game or graphics*, the role with the lowest compensation, also had above average experience at 9.4 years, it's not only experience influencing salary.

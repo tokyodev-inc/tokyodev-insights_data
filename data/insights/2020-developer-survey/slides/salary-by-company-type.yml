@@ -1,0 +1,8 @@
+---
+title: Japanese companies pay worse than other entities
+charts:
+  - id: salary-by-company-type
+    title: Salary by Company Type
+    type: BubbleLineChart
+---
+Developers who work for a Japanese company had an average salary of ¥7.5 million, versus ¥10.8 for developers working for a different [type of entity](#company-type).
